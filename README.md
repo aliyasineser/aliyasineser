@@ -32,6 +32,18 @@ I am an iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aliyasineser&theme=dark)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliyasineser&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### ✍️ Blog Posts : 
+- [OpenCV Camera Calibration](https://aliyasineser.medium.com/opencv-camera-calibration-e9a48bdd1844)
+- [ArUco Marker Tracking](https://aliyasineser.medium.com/aruco-marker-tracking-with-opencv-8cb844c26628)
+- [Relative Positions Calculation with ArUco Markers](https://aliyasineser.medium.com/calculation-relative-positions-of-aruco-markers-eee9cc4036e3)
+- [The Depth I: Stereo Calibration and Rectification](https://python.plainenglish.io/the-depth-i-stereo-calibration-and-rectification-24da7b0fb1e0)
+- [The Depth II: Block Matching](https://python.plainenglish.io/the-depth-ii-block-matching-d599e9372712)
+
+
 <!--
 **aliyasineser/aliyasineser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
