@@ -5,7 +5,10 @@
 - 🔭 I am an iOS Developer with Embedded Systems and Computer Vision background. I have 4 years of experience in the industry and I worked with Fortune 500 clients in different industries such as robotics, autonomous cars, computer simulation, streaming, and automation.
 - 🎓 I graduated in 2018 from Gebze Technical University BSc in Computer Engineering. I'm the founder of the Computer Society and I worked as a tutor for C/C++, and event organizer by conducting events like GeekDay.
 - 🎸 I play guitar and I also have interest and experience in Mixing/Mastering and Composing for Progressive Metal/Djent and Lo-Fi genres. I have 2 albums and many singles, you can find me on every platform. [Follow my musical journey!](https://linktr.ee/aliyasineser)
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-aliyasineser-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aliyasineser)
+- 📫 How to reach me: &nbsp; 
+[![Linkedin Badge](https://img.shields.io/badge/-aliyasineser-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aliyasineser)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://aliyasineser.medium.com/)
+
 
 ---
 
