@@ -4,7 +4,7 @@
 ### 👨‍💻 &nbsp;About Me :
 - 🔭 I am an iOS Developer with a background in embedded systems and computer vision. I have experience in various industries, including communication, cloud, robotics, autonomous vehicles, computer simulation, streaming, and automation.
 - 🎓 I graduated in 2018 from Gebze Technical University BSc in Computer Engineering. I'm the founder of the Computer Society, and I worked as a tutor for C/C++, and an event organizer by conducting events like GeekDay.
-- 🎸 I play guitar and I also have interest and experience in Mixing/Mastering and Composing for Progressive Metal/Djent and Lo-Fi genres. I have 2 albums and many singles, you can find me on every platform. [Follow my musical journey!](https://linktr.ee/aliyasineser)
+- 🎸 I play guitar and I also have interest and experience in Mixing/Mastering and Composing for Progressive Metal/Djent and Lo-Fi genres. I have 2 albums and many singles; you can find me on every platform. [Follow my musical journey!](https://linktr.ee/aliyasineser)
 - 📫 How to reach me: &nbsp; 
 [![Linkedin Badge](https://img.shields.io/badge/-aliyasineser-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aliyasineser)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://aliyasineser.medium.com/)
@@ -27,14 +27,6 @@
 <a href="https://isocpp.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/></a>&nbsp;
 </p>
 
-
----
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aliyasineser&theme=dark)](https://git.io/streak-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliyasineser&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliyasineser&show_icons=true&theme=dracula)
   
 ---
 
